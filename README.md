@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <h2> Hi There! I'm Shevon <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px"></h2>
   <div id="badges">
@@ -6,7 +7,7 @@
     <a href="mailto:shevonnet@163.com"><img src="https://img.shields.io/badge/-shevonnet@163.com-EA4335?style=flat-square&logoColor=white&logo=mail.ru&link=shevonnet@163.com"/></a>
   </div>
 </div>
-
+ 
 ## ✨ About Me
 A Web Developer from china with experience in building web applications using JavaScript, React, and Vue.js. 
 - 🌟 Front-End Engineer with Full Stack Skills
@@ -64,3 +65,6 @@ A Web Developer from china with experience in building web applications using Ja
   <img src="https://img.shields.io/badge/-Project%20Management-000000?style=flat&logo=project-management&logoColor=white" />
   <img src="https://img.shields.io/badge/-Technical%20Documentation-000000?style=flat&logo=technical-documentation&logoColor=white" />
 </div>
+
+## Visitor Count
+![Profile Views](https://komarev.com/ghpvc/?username=shevonne)
