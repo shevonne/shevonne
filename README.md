@@ -1,6 +1,11 @@
-# Shevon F. Zhang 👋
+## Hi There! I'm Shevon <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&width=435&lines=Hi+There!+I'm+Shevon.)
+A passionate Web Developer 🌟 with experience in building web applications using JavaScript, React, and Vue.js. Skilled in big data visualization and smart IoT solutions. Proficient in PC, responsive design, mobile H5, and WeChat Mini Programs. Passionate about hands-on creation and maintaining a work-life balance.
+
+<a href="https://www.linkedin.com/in/shevon"><img src="https://img.shields.io/badge/-rabbyalone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shevon/"/></a>
+<a href="https://www.shevon.cn"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://www.shevon.cn"/></a>
+<a href="mailto:shevonnet@163.com"><img src="https://img.shields.io/badge/-shevonnet@163.com-EA4335?style=flat-square&logoColor=white&logo=mail.ru&link=shevonnet@163.com"/></a>
+
 
 ## 🚀 Skills
 
@@ -45,15 +50,6 @@
   <img src="https://img.shields.io/badge/-Smart%20Building-41B883?style=flat&logo=smart-building&logoColor=white" />
   <img src="https://img.shields.io/badge/-Project%20Management-000000?style=flat&logo=project-management&logoColor=white" />
   <img src="https://img.shields.io/badge/-Technical%20Documentation-000000?style=flat&logo=technical-documentation&logoColor=white" />
-</div>
-
-## 📫 Contact Me
-
-<div>
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /> [shevonnet@163.com](mailto:shevonnet@163.com)
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /> [shevonzhang](https://github.com/shevonzhang)
-<!--   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> [Your LinkedIn](https://www.linkedin.com/in/your-profile) -->
-  <img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=website&logoColor=white" /> [Your Website](https://www.shevon.cn/)
 </div>
 
 ## ✨ About Me
