@@ -1,10 +1,20 @@
-## Hi There! I'm Shevon <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px">
+<div id="header" align="center">
+  <h2> Hi There! I'm Shevon <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px"></h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/shevon"><img src="https://img.shields.io/badge/-rabbyalone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shevon/"/></a>
+    <a href="https://www.shevon.cn"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://www.shevon.cn"/></a>
+    <a href="mailto:shevonnet@163.com"><img src="https://img.shields.io/badge/-shevonnet@163.com-EA4335?style=flat-square&logoColor=white&logo=mail.ru&link=shevonnet@163.com"/></a>
+  </div>
+</div>
 
-A passionate Web Developer 🌟 with experience in building web applications using JavaScript, React, and Vue.js. Skilled in big data visualization and smart IoT solutions. Proficient in PC, responsive design, mobile H5, and WeChat Mini Programs. Passionate about hands-on creation and maintaining a work-life balance.
-
-<a href="https://www.linkedin.com/in/shevon"><img src="https://img.shields.io/badge/-rabbyalone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shevon/"/></a>
-<a href="https://www.shevon.cn"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://www.shevon.cn"/></a>
-<a href="mailto:shevonnet@163.com"><img src="https://img.shields.io/badge/-shevonnet@163.com-EA4335?style=flat-square&logoColor=white&logo=mail.ru&link=shevonnet@163.com"/></a>
+## ✨ About Me
+A Web Developer from china with experience in building web applications using JavaScript, React, and Vue.js. 
+- 🌟 Front-End Engineer with Full Stack Skills
+- 🌟 passion for hands-on exploration, paying attention to detail, and creating aesthetically pleasing designs
+- 🌟 Proficient in PC, responsive design, mobile H5, and WeChat Mini Programs
+- ⚙️ Skilled in big data visualization and smart IoT solutions
+- 🔭 Work-Life Balance Promoter
+- ⚡ Fun fact: I'm a huge fan of TBBT,Modern Family,Silicon Valley and Friends | a clay crafting enthusiast | Rock music | Black humor |
 
 
 ## 🚀 Skills
@@ -51,7 +61,3 @@ A passionate Web Developer 🌟 with experience in building web applications usi
   <img src="https://img.shields.io/badge/-Project%20Management-000000?style=flat&logo=project-management&logoColor=white" />
   <img src="https://img.shields.io/badge/-Technical%20Documentation-000000?style=flat&logo=technical-documentation&logoColor=white" />
 </div>
-
-## ✨ About Me
-
-I'm passionate about creating visually appealing and user-friendly web applications. In my free time, I enjoy handcraft clay sculpture, reading literary works, watching American TV shows, playing ping pong, and running.
