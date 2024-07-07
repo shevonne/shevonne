@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h2> Hi There! I'm Shevon <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px"></h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/shevon"><img src="https://img.shields.io/badge/-rabbyalone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shevon/"/></a>
+    <a href="https://www.linkedin.com/in/shevon"><img src="https://img.shields.io/badge/-Shevon-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shevon/"/></a>
     <a href="https://www.shevon.cn"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://www.shevon.cn"/></a>
     <a href="mailto:shevonnet@163.com"><img src="https://img.shields.io/badge/-shevonnet@163.com-EA4335?style=flat-square&logoColor=white&logo=mail.ru&link=shevonnet@163.com"/></a>
   </div>
