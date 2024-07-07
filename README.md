@@ -15,6 +15,9 @@ A Web Developer from china with experience in building web applications using Ja
 - ⚙️ Skilled in big data visualization and smart IoT solutions
 - 🔭 Work-Life Balance Promoter
 - ⚡ Fun fact: I'm a huge fan of TBBT,Modern Family,Silicon Valley and Friends | a clay crafting enthusiast | Rock music | Black humor |
+  
+## My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shevonzhang&layout=compact)
 
 
 ## 🚀 Skills
