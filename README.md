@@ -15,7 +15,9 @@ A Web Developer from china 🇨🇳 with experience in building web applications
 - 🧭 Proficient in PC, responsive design, mobile H5, and WeChat Mini Programs
 - ⚙️ Skilled in big data visualization and smart IoT solutions
 - 🔭 Work-Life Balance Promoter
-- ⚡ Fun fact: I'm a huge fan of TBBT,Modern Family,Silicon Valley and Friends 
+- ⚡ Fun fact: I'm a huge fan of TBBT,Modern Family,Silicon Valley and Friends
+- 📫 Open for opportunities. Feel free to reach out via email at [shevonnet@163.com](mailto:shevonnet@163.com) 
+
   
 ## My Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shevonne&layout=compact)
