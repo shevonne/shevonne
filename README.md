@@ -3,8 +3,8 @@
   <h2> Hi There! I'm Shevon <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px"></h2>
   <div id="badges">
 <!--     <a href="https://www.linkedin.com/in/shevon"><img src="https://img.shields.io/badge/-Shevon-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shevon/"/></a> -->
-    <a href="https://www.shevon.cn"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://www.shevon.cn"/></a>
     <a href="mailto:shevonnet@163.com"><img src="https://img.shields.io/badge/-shevonnet@163.com-EA4335?style=flat-square&logoColor=white&logo=mail.ru&link=shevonnet@163.com"/></a>
+    <a href="https://www.shevon.cn"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://www.shevon.cn"/></a> 
   </div>
 </div>
  
@@ -16,7 +16,7 @@ A Web Developer from china 🇨🇳 with experience in building web applications
 - ⚙️ Skilled in big data visualization and smart IoT solutions
 - 🔭 Work-Life Balance Promoter
 - ⚡ Fun fact: I'm a huge fan of TBBT,Modern Family,Silicon Valley and Friends
-- 📫 Open for opportunities. Feel free to reach out via email at [shevonnet@163.com](mailto:shevonnet@163.com) 
+- 📫 Open for opportunities. Feel free to reach out via email at [shevonnet@163.com](mailto:shevonnet@163.com) or visit my [website](https://www.shevon.cn) to learn more about me 😆
 
   
 ## My Most Used Languages
