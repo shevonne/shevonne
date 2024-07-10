@@ -9,7 +9,7 @@
 </div>
  
 ## ✨ About Me
-A Web Developer from china with experience in building web applications using JavaScript, React, and Vue.js. 
+A Web Developer from china 🇨🇳 with experience in building web applications using JavaScript, React, and Vue.js. 
 - 💻️ Front-End Engineer with Full Stack Skills
 - 🌟 passion for hands-on exploration, paying attention to detail, and creating aesthetically pleasing designs
 - 🧭 Proficient in PC, responsive design, mobile H5, and WeChat Mini Programs
