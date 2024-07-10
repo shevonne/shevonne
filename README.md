@@ -16,7 +16,7 @@ A Web Developer from china 🇨🇳 with experience in building web applications
 - ⚙️ Skilled in big data visualization and smart IoT solutions
 - 🔭 Work-Life Balance Promoter
 - ⚡ Fun fact: I'm a huge fan of TBBT,Modern Family,Silicon Valley and Friends
-- 📫 Open for opportunities.Feel free to contact me at [shevonnet@163.com](mailto:shevonnet@163.com) or visit my [website](https://www.shevon.cn) to learn more about me 😆
+- 📫 Open for opportunities.Feel free to contact me at 💌 [shevonnet@163.com](mailto:shevonnet@163.com) or visit my 🌐 [website](https://www.shevon.cn) to learn more about me 💫
 
   
 ## My Most Used Languages
